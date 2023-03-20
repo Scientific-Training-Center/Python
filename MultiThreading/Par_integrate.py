@@ -33,5 +33,5 @@ def integrate(f, a, b, num_threads=2):
     # Return the sum of all thread integrals
     return sum(integrals)
 
-result = integrate(lambda x: x**2, 0, 1, num_threads=4)
+result = integrate(lambda x: x**2, -1000, 1000, num_threads=4)
 print(result)
