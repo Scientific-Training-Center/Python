@@ -15,3 +15,5 @@
 3. SymPy is a Python library for symbolic mathematics.    https://www.sympy.org/
 4. NumPy is the fundamental package for scientific computing in Python https://numpy.org/
 5. Булашев С. В. Статистика для трейдеров. — М.: Компания Спутник+, 2003. — 245 с.
+6. Qingkai Kong, Timmy Siauw, Alexandre Bayen,Python Programming and Numerical Methods - A Guide for Engineers and Scientists,1st Edition - November 27, 2020
+   { https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html }
