@@ -2,7 +2,8 @@ import threading
 import scipy.integrate as spi
 
 def integrate(f, a, b, num_threads=2):
-    """
+    """ 
+    
     Computes the definite integral of f(x) over the interval [a, b]
     using the scipy.integrate.quad function and parallelism with threading.
     """
